@@ -1,7 +1,7 @@
 🎯 Objectif du projet :
 Analyser les performances de ventes, pertes et marges d’un supermarché afin de dégager des axes d’optimisation business.
 
-📁 4. Contenu à inclure dans ton portfolio CV (Github ou PDF)
+
 📘 Titre du projet : Analyse des ventes et pertes d’un supermarché avec Power BI
 
 🎯 Objectif business : Optimiser la rentabilité en identifiant les produits à faible marge ou à forte perte
