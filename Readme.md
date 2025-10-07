@@ -68,7 +68,5 @@ Optimiser la rentabilité globale en identifiant :
 
 ---
 
-💡 **Ajoute ce bloc dans ton README.md, dans ton site portfolio, ou dans une slide PowerPoint de présentation finale**.
-Souhaites-tu que je t’en fasse une version stylée prête à intégrer dans un PowerPoint (avec couleurs, icônes, typographie) ?
 
 
